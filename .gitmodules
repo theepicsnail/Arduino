@@ -1,0 +1,12 @@
+[submodule "libraries/TFTLCD"]
+	path = libraries/TFTLCD
+	url = https://github.com/adafruit/TFTLCD-Library.git
+[submodule "libraries/TouchScreen"]
+	path = libraries/TouchScreen
+	url = https://github.com/adafruit/Touch-Screen-Library.git
+[submodule "libraries/Adafruit_GFX"]
+	path = libraries/AdafruitGFX/
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "libraries/AdafruitGFX"]
+	path = libraries/AdafruitGFX
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
